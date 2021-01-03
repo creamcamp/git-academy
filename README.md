@@ -1,4 +1,4 @@
-# 👨🏻‍💻 with ❤️ for 👨🏻‍🎓
+# 👨🏻‍💻 with 🖤 for 👨🏻‍🎓
 
 CreamCamp GitAcademy repository purpose is to get you to know how both Git & GitHub work. There are many mistakes, that we have made on purpose for you to be fixed!
 

@@ -7,7 +7,5 @@ CreamCamp GitAcademy repository purpose is to get you to know how both Git & Git
 2. Make changes, commit them!
 3. Open the PR!
 
-### Mistake line! REMOVE ME!!!
-
 ## Keep in touch:
-In case you have any code suggestions or just say hello! Keep in touch with me directly through: **office@cream.camp**
+In case you have any code suggestions or just say hello! Keep in touch with me directly through: **office@cream.camp** tYpo
